@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ASILAMCYBER FREE TV - Free TV for Uganda</title>
+<meta name="description" content="Watch 1000+ channels FREE in Uganda. Download VLC and open TV now. VPN for USA channels 15k/week">
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#000;color:#fff;font-family:Arial,Helvetica,sans-serif;text-align:center;padding-bottom:30px}
+.header{padding:15px 10px 5px}
+h1{color:#FFD700;margin:0;font-size:26px;letter-spacing:1px}
+.sub{color:#aaa;font-size:13px;margin:5px 0 15px}
+.box{margin:10px 14px;padding:16px;border-radius:20px;text-align:center}
+.y{background:#FFD700;color:#000;border:2px solid #FFD700}
+.g{background:#00FF00;color:#000;border:2px solid #00FF00}
+.d{background:#111;border:3px solid #00FF00;color:#FFD700}
+.step{font-weight:900;font-size:18px;margin-bottom:6px}
+.desc{font-size:14px;line-height:1.4;margin:6px 0}
+button{width:100%;padding:16px;margin-top:12px;border-radius:14px;font-size:19px;font-weight:900;border:none;cursor:pointer;background:#fff;color:#000;box-shadow:0 4px 0 rgba(0,0,0,.3)}
+button:active{transform:translateY(2px);box-shadow:0 2px 0 rgba(0,0,0,.3)}
+.foot{margin-top:18px;color:#777;font-size:12px;line-height:1.6}
+.momo{color:#FFD700;font-weight:900}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>ASILAMCYBER FREE TV</h1>
+<div class="sub">Free TV for Uganda | TV y'obwereere mu Uganda</div>
+</div>
+<div class="box y">
+<div class="step">STEP 1 - DOWNLOAD VLC</div>
+<div class="desc">Teeka VLC App okuva mu Play Store<br>Free App for watching TV</div>
+<button onclick="window.open('https://play.google.com/store/apps/details?id=org.videolan.vlc','_blank')">DOWNLOAD VLC</button>
+</div>
+<div class="box g">
+<div class="step">STEP 2 - OPEN TV NOW</div>
+<div class="desc">1000+ Live Channels FREE<br>Nyiga wano olabe TV 1000+</div>
+<button onclick="window.open('https://romaxa55.github.io/world_ip_tv/output/index.m3u','_blank')">OPEN TV NOW</button>
+<div style="font-size:11px;margin-top:8px;opacity:.8">After click: Choose Open with VLC</div>
+</div>
+<div class="box d">
+<div class="step" style="color:#00FF00">STEP 3 - BUY VPN - GULA VPN</div>
+<div class="desc">Unlock USA, UK, Sports, Movies<br>Okusobola USA Channels zonna<br><br><span style="color:#FFD700;font-weight:900">15k / week - 45k / month</span><br>MoMo: 0777662587<br>Email: mawejjeasilam@gmail.com</div>
+<button style="background:#00FF00;color:#000" onclick="window.open('https://wa.me/256777662587?text=Hi%20Asilam%20I%20want%20VPN%20for%20IPTV%20-%20ASILAMCYBER%20FREE%20TV','_blank')">WhatsApp BUY VPN</button>
+</div>
+<div class="foot">
+ASILAMCYBER TV - Kampala, Uganda<br>
+Permanent Link: asilamcyber.github.io/tv<br>© 2026 AsilamCyber
+</div>
+</body>
+</html>
